@@ -4,8 +4,7 @@
 
 ## About
 
-Oota Sushikuitee means "Oota wants to eat sushi" in Japanese
-
+Oota Sushikuitee means "Oota wants to eat sushi" in Japanese.
 ## License
 
 All icons and images are licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
