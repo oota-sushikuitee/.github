@@ -1,6 +1,6 @@
 # Oota Sushikuitee
 
-![oota-sushikuitee](https://github.com/oota-sushikuitee/images/blob/main/images/sushi-kun.png)
+<img src="https://github.com/oota-sushikuitee/images/blob/main/images/sushi-kun.png" alt="Oota Sushikuitee" width="300"/>
 
 ## About
 
